@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Yihan, a junior undergraduate student in the School of Artificial Intelligence at Chongqing University of Posts and Telecommunications (expected graduation: June 2027). I'm passionate about coding, photography, and running. Nice to meet you! Wishing you a happy day!
 
 <!--
 **YoungYiHan/YoungYiHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
